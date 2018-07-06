@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee     http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
 
-    <display-name>Archetype Created Web Application</display-name>
 
+    <display-name>Archetype Created Web Application</display-name>
     <!-- 必须有，否则将找不到Servlet，出现404错误-->
     <servlet>
         <servlet-name>ControllerServlet</servlet-name>
-        <servlet-class>servlet.ControllerServlet</servlet-class>
+        <servlet-class>servlet.DispatcherServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ControllerServlet</servlet-name>

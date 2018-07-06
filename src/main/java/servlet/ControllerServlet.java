@@ -10,6 +10,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+/**
+ * 传统Servlet形式，耦合度较高，不推荐
+ */
 public class ControllerServlet extends HttpServlet {
 
     private static final long serialVersionUID = -6395821976983329589L;

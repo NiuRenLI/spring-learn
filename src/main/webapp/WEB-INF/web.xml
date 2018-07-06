@@ -5,6 +5,7 @@
 <web-app>
     <display-name>Archetype Created Web Application</display-name>
 
+     <!-- 必须有，否则将找不到Servlet，出现404错误-->
     <servlet>
         <servlet-name>ControllerServlet</servlet-name>
         <servlet-class>servlet.ControllerServlet</servlet-class>

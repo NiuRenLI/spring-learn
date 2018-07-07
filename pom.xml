@@ -11,6 +11,8 @@
         <module>chapter02</module>
         <module>chapter02_validation</module>
         <module>app03</module>
+        <module>appo3_vr</module>
+        <module>app03_viewresolver</module>
     </modules>
     <packaging>pom</packaging>
 

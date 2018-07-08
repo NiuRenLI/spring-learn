@@ -9,3 +9,9 @@ chapter02_validation又进一步模拟了校验逻辑。
 通过三个简单的项目，得到结论:MVC的核心为：DispatcherServlet.
 
 2 app03和app03_viewresolver为简单的SpringMV程序,用框架提供的DispatcherServlet来管理请求.只需要实现框架提供的Controller接口即可.
+`
+app03和app03_viewresolver`的控制器基于Controller接口实现，但是这样做有以下缺点：
+（1）：一个控制器只能处理一个动作。
+（2）：需要配置文件。
+
+为了避免上述问题，采用注解方式开发。

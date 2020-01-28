@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springaction_chp02" />
+        <module name="chapter02_validation" />
+        <module name="chapter02" />
+        <module name="knight" />
+        <module name="app04" />
+        <module name="app03" />
+        <module name="app03_viewresolver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="appo3_vr" target="1.7" />
+      <module name="chapter02_1" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

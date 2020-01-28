@@ -11,9 +11,10 @@
         <module>chapter02</module>
         <module>chapter02_validation</module>
         <module>app03</module>
-        <module>appo3_vr</module>
         <module>app03_viewresolver</module>
         <module>app04</module>
+        <module>knight</module>
+        <module>springaction_chp02</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -31,8 +32,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
-            <scope>test</scope>
+            <version>4.12</version>
         </dependency>
 
         <dependency>
@@ -99,6 +99,15 @@
             <artifactId>spring-webmvc</artifactId>
             <version>4.3.18.RELEASE</version>
         </dependency>
+
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>4.3.18.RELEASE</version>
+        </dependency>
+
+
         <!--Spring相关-->
 
         <!--日志-->

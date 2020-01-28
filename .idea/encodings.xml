@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app03_viewresolver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app03_viewresolver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02_validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02_validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springaction_chp02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springaction_chp02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springaction_chp02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+  </component>
+</project>
